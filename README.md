@@ -1,8 +1,8 @@
 Smart Hot Cup
 ========
-Our last project was about Physical Bits. 
+Our last project was about Physical Bits. (https://vimeo.com/123508767)
 
-(https://vimeo.com/123508767)
+
 ![image] (pic3.png)
 
 This Project was made for the Input/Output
