@@ -7,11 +7,15 @@ Will it be bad for your health to drink a hot cup of tea? The question is how to
 
 Here you can see (https://vimeo.com/123508767)
 
+## Sketch
+
 
 ## Fritzing Sketch
-![image] (flipdot_by_hbridge _temp36_bb_bushputton.png)
+![image](https://raw.githubusercontent.com/vispalberlin/SmartHotCup/master/flipdot_by_hbridge%20_temp36_bb_bushputton.png)
 
-This Project was made for the Input/Output
+
+
+This Project was made for the [Input/Output](https://interface.fh-potsdam.de/eingabe-ausgabe/2014-2015/)
 
 University of applied sciences in Potsdam 
 Semester 2014/15
