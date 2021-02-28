@@ -5,7 +5,7 @@ Will it be bad for your health to drink a hot cup of tea? The question is how to
 ========
 Here you can see [VIDEO](https://vimeo.com/123508767)
 
-![image] (SmartHotCup/pic3.png)
+![image] (/SmartHotCup/pic3.png)
 
 #####Fritzing Sketch
 ![image] (flipdot_by_hbridge _temp36_bb_bushputton.png)
