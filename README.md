@@ -2,7 +2,7 @@
 
 Will it be bad for your health to drink a hot cup of tea? The question is how to quickly find the perfect, ideal temperature for tea or hot drinks. The Smart Hot Cup will help you identify the best time to drink your tea with its FlipDot mechanism.
 
-========
+
 Here you can see (https://vimeo.com/123508767)
 
 ![image] (/SmartHotCup/pic3.png)
@@ -16,8 +16,8 @@ University of applied sciences in Potsdam
 Semester 2014/15
 
 
-License
-========
+## License
+
 The MIT License (MIT)
 
 Copyright (c) 2015 Jolanta Paliszewska
